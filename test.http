@@ -1,0 +1,12 @@
+### Get Request
+GET http://localhost:3000/smoothies
+
+### POST REQUEST
+
+POST http://localhost:3000/signup
+Content-Type: application/json
+
+{
+   "email": "mar1@gmail.com",
+   "password": "123456"
+}
